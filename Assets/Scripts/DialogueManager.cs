@@ -23,7 +23,7 @@ public class DialogueManager : MonoBehaviour
         dialogueText.text = "Bheki: I shoud've stayed on the farm mxm";
         yield return new WaitForSeconds(textDelay);
 
-        dialogueText.text = "Bheki: And then lodoti? (This Rubbish?)";
+        dialogueText.text = "Bheki: And then lodoti? (this rubbish?)";
         yield return new WaitForSeconds (textDelay);
 
         dialogueText.text = "Bheki: Surely they dont expect me to clean this?!";
