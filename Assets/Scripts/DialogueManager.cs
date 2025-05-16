@@ -7,11 +7,10 @@ public class DialogueManager : MonoBehaviour
     public TextMeshProUGUI dialogueText;
     public GameObject dialoguePanel; //Reference to the panel
     public float textDelay = 3f;
-     
+    public TaskPopup taskPopup; //Assign this in the inspector
 
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+   // Start is called once before the first execution of Update after the MonoBehaviour is created
    private void Start()
     {
         StartCoroutine(ShowDialogue());
@@ -34,5 +33,11 @@ public class DialogueManager : MonoBehaviour
 
         dialogueText.text = ""; // Clear the text after dialogue ends 
         dialoguePanel.SetActive(false); //Hide the panel after dialogue
+    }
+
+    void OnDialogueEnd()
+    {
+        // Show the task pop-up when the dialogue ends
+        taskPopup.ShowTasks();
     }
 }
