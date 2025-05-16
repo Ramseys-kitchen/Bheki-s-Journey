@@ -7,7 +7,7 @@ public class DialogueManager : MonoBehaviour
     public TextMeshProUGUI dialogueText;
     public GameObject dialoguePanel; //Reference to the panel
     public float textDelay = 3f;
-    public GameObject taskPanel; 
+     
 
 
 
@@ -34,13 +34,5 @@ public class DialogueManager : MonoBehaviour
 
         dialogueText.text = ""; // Clear the text after dialogue ends 
         dialoguePanel.SetActive(false); //Hide the panel after dialogue
-    }
-    void EndDialogue()
-    {
-        //Existing dialogue-end lgic here
-        if (taskPanel != null)
-        {
-            taskPanel.SetActive(true); //Show the requiremments/taskUI
-        }
     }
 }
