@@ -10,7 +10,7 @@ public class DialogueManager : MonoBehaviour
     public TaskPopup taskPopup; //Assign this in the inspector
 
 
-   // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
    private void Start()
     {
         StartCoroutine(ShowDialogue());
