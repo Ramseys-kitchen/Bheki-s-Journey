@@ -5,6 +5,12 @@ public class TrashCollector : MonoBehaviour
     private int trashCollected = 0;
     private bool isCollecting = false;
 
+    [Header("Audio Settings")]
+    [SerializeField] private AudioClip collectSound; //Assign in Inspector
+    [SerializeField]
+    [Range(0f, 1f)]
+    private float volume = 0.7f; //Default volume level
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!isCollecting && other.CompareTag("Item"))
@@ -25,11 +31,15 @@ public class TrashCollector : MonoBehaviour
         isCollecting = false;
     }
 
-    // Visual debugging 
-    private void OnDrawGizmos()
+    private void PlayCollectSound()
     {
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(transform.position, 0.5f);
-    }
+        if (collectSound != null)
+        {
+            // Play at camera position for better spatial audio
+            Vector3 soundPos = Camera.main.transform.position;
 
+            AudioSource.PlayClipAtPoint(collectSound, soundPos, volume);
+        }
+
+    } 
 }
