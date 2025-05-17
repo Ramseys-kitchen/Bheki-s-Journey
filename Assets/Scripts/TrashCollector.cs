@@ -25,6 +25,8 @@ public class TrashCollector : MonoBehaviour
         yield return new WaitForFixedUpdate();
 
         trashCollected++;
+        Debug.Log($"About to play sound for trash#{trashCollected}");
+        PlayCollectSound();
         Destroy(trash);
         Debug.Log($"Collected trash! Total:{trashCollected}");
 
