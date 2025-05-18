@@ -5,6 +5,7 @@ using UnityEngine.Events;
 public class VendingMachineInteraction : MonoBehaviour
 {
     public Image progressBar;
+    public GameObject progressBarParent;
     public AudioSource vendingAudio;
     public UnityEvent onFinishedEating; // Player gains energy
 
@@ -25,6 +26,9 @@ public class VendingMachineInteraction : MonoBehaviour
             onFinishedEating?.Invoke();
             clickCount = 0; //Reset
             UpdateProgressBar();
+
+            if(progressBarParent != null )
+                progressBarParent.SetActive(false);
         }
     }
 
