@@ -553,8 +553,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15, y: -20}
-  m_SizeDelta: {x: 768.1234, y: 224.6454}
+  m_AnchoredPosition: {x: 0.000055313, y: -0.000013351}
+  m_SizeDelta: {x: 785.9452, y: 246.4276}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &307934312
 MonoBehaviour:
@@ -578,8 +578,14 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'MOVE: WASD OR ARROW KEYS
 
+    SETTINGS + INVENTORY: PRESS TAB
 
-    SETTINGS + INVENTORY: PRESS TAB'
+    WALK
+    OVER TRASH TO PICK IT UP
+
+    CLICK VENDING MACHINE 8 TIMES TO EAT
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -606,8 +612,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -644,7 +650,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -32.759033, w: 0}
+  m_margin: {x: -19.802002, y: 0, z: -32.759033, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -9865,7 +9871,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1883195564
 MonoBehaviour:
   m_ObjectHideFlags: 0
