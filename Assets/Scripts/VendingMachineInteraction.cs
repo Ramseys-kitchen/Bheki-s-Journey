@@ -11,6 +11,13 @@ public class VendingMachineInteraction : MonoBehaviour
 
     private int clickCount = 0;
     private int requiredClicks = 8;
+    public GameObject Square;
+
+
+    public void Start()
+    {
+        Square.SetActive(false);
+    }
 
     private void OnMouseDown()
     {
@@ -36,5 +43,18 @@ public class VendingMachineInteraction : MonoBehaviour
     {
         if(progressBar != null)
             progressBar.fillAmount = (float)clickCount / requiredClicks;
+    }
+
+    public void Update()
+    {
+        Shoot();
+    }
+
+    void Shoot()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Square.gameObject.SetActive(true); 
+        }
     }
 }

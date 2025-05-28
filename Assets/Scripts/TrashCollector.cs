@@ -17,6 +17,7 @@ public class TrashCollector : MonoBehaviour
         {
             isCollecting = true;
             StartCoroutine(CollectSingleTrash(other.gameObject));
+            //Progress Bar will update here (reversehealthbar)
         }
     }
     private System.Collections.IEnumerator CollectSingleTrash(GameObject trash)
