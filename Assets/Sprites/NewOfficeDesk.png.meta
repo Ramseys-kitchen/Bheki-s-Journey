@@ -1,0 +1,4817 @@
+fileFormatVersion: 2
+guid: db81749b5ad6b4548bd5b86e8f2c8b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8153164965063831464
+    second: NewOfficeDesk_0
+  - first:
+      213: -6336374393286805397
+    second: NewOfficeDesk_1
+  - first:
+      213: 638337493309770928
+    second: NewOfficeDesk_2
+  - first:
+      213: 8326987573995734888
+    second: NewOfficeDesk_3
+  - first:
+      213: 9061608736057304381
+    second: NewOfficeDesk_4
+  - first:
+      213: 4989879667300064572
+    second: NewOfficeDesk_5
+  - first:
+      213: 5582705287208228320
+    second: NewOfficeDesk_6
+  - first:
+      213: -8375639268563500791
+    second: NewOfficeDesk_7
+  - first:
+      213: -4372568734045909294
+    second: NewOfficeDesk_8
+  - first:
+      213: -7306626840220101502
+    second: NewOfficeDesk_9
+  - first:
+      213: -6113903505610321891
+    second: NewOfficeDesk_10
+  - first:
+      213: -6700172952966704556
+    second: NewOfficeDesk_11
+  - first:
+      213: -8454502933252274653
+    second: NewOfficeDesk_12
+  - first:
+      213: -6536599679932992730
+    second: NewOfficeDesk_13
+  - first:
+      213: -1804477300881613291
+    second: NewOfficeDesk_14
+  - first:
+      213: -345154554590135827
+    second: NewOfficeDesk_15
+  - first:
+      213: -711977415664182805
+    second: NewOfficeDesk_16
+  - first:
+      213: 7809793023370955861
+    second: NewOfficeDesk_17
+  - first:
+      213: -7772865701446188022
+    second: NewOfficeDesk_18
+  - first:
+      213: -821964816171004727
+    second: NewOfficeDesk_19
+  - first:
+      213: 7413980236810404470
+    second: NewOfficeDesk_20
+  - first:
+      213: 4628904774905641753
+    second: NewOfficeDesk_21
+  - first:
+      213: 6792570857659813529
+    second: NewOfficeDesk_22
+  - first:
+      213: -3148677675214962700
+    second: NewOfficeDesk_23
+  - first:
+      213: -5187502117095372370
+    second: NewOfficeDesk_24
+  - first:
+      213: 2250381466962863543
+    second: NewOfficeDesk_25
+  - first:
+      213: -5734159739660783571
+    second: NewOfficeDesk_26
+  - first:
+      213: -3594415123399531295
+    second: NewOfficeDesk_27
+  - first:
+      213: -5702344042114920745
+    second: NewOfficeDesk_28
+  - first:
+      213: 1290445199691592437
+    second: NewOfficeDesk_29
+  - first:
+      213: -1272600996409244935
+    second: NewOfficeDesk_30
+  - first:
+      213: 6554576355121099719
+    second: NewOfficeDesk_31
+  - first:
+      213: -8036333630763945023
+    second: NewOfficeDesk_32
+  - first:
+      213: -3518378639499810211
+    second: NewOfficeDesk_33
+  - first:
+      213: -5464124886743277089
+    second: NewOfficeDesk_34
+  - first:
+      213: 1514851516563734851
+    second: NewOfficeDesk_35
+  - first:
+      213: -8717077177681274089
+    second: NewOfficeDesk_36
+  - first:
+      213: -3086539581118763914
+    second: NewOfficeDesk_37
+  - first:
+      213: -2597929972244631998
+    second: NewOfficeDesk_38
+  - first:
+      213: -5422566084066000901
+    second: NewOfficeDesk_39
+  - first:
+      213: -4571548640905995665
+    second: NewOfficeDesk_40
+  - first:
+      213: -3138755346183325236
+    second: NewOfficeDesk_41
+  - first:
+      213: 1576289621587151969
+    second: NewOfficeDesk_42
+  - first:
+      213: 2434532256329924179
+    second: NewOfficeDesk_43
+  - first:
+      213: -8220001118529105685
+    second: NewOfficeDesk_44
+  - first:
+      213: -5587802479553138982
+    second: NewOfficeDesk_45
+  - first:
+      213: -6940720705141805748
+    second: NewOfficeDesk_46
+  - first:
+      213: -4067377465763153953
+    second: NewOfficeDesk_47
+  - first:
+      213: 7049572060146965101
+    second: NewOfficeDesk_48
+  - first:
+      213: -3966513257122119958
+    second: NewOfficeDesk_49
+  - first:
+      213: -5465454649871744300
+    second: NewOfficeDesk_50
+  - first:
+      213: -690608430591047477
+    second: NewOfficeDesk_51
+  - first:
+      213: -7499824791662374671
+    second: NewOfficeDesk_52
+  - first:
+      213: 2312276260285067486
+    second: NewOfficeDesk_53
+  - first:
+      213: 5317151348474315894
+    second: NewOfficeDesk_54
+  - first:
+      213: -6935898763618705484
+    second: NewOfficeDesk_55
+  - first:
+      213: 7580107917802371587
+    second: NewOfficeDesk_56
+  - first:
+      213: -5322535565354026150
+    second: NewOfficeDesk_57
+  - first:
+      213: 8001516618974003619
+    second: NewOfficeDesk_58
+  - first:
+      213: 4188162288928555089
+    second: NewOfficeDesk_59
+  - first:
+      213: -7695891662061637364
+    second: NewOfficeDesk_60
+  - first:
+      213: 3741502085158679630
+    second: NewOfficeDesk_61
+  - first:
+      213: -9034754244924628778
+    second: NewOfficeDesk_62
+  - first:
+      213: 7433295235208243467
+    second: NewOfficeDesk_63
+  - first:
+      213: -2205954842934833575
+    second: NewOfficeDesk_64
+  - first:
+      213: 7287855852898701125
+    second: NewOfficeDesk_65
+  - first:
+      213: 2324560240511116739
+    second: NewOfficeDesk_66
+  - first:
+      213: 1486152148739906053
+    second: NewOfficeDesk_67
+  - first:
+      213: 6660604603058541368
+    second: NewOfficeDesk_68
+  - first:
+      213: 7056209779686324935
+    second: NewOfficeDesk_69
+  - first:
+      213: 8738478285525289652
+    second: NewOfficeDesk_70
+  - first:
+      213: 372420609187719875
+    second: NewOfficeDesk_71
+  - first:
+      213: 5092578191352868339
+    second: NewOfficeDesk_72
+  - first:
+      213: -6274155624222009461
+    second: NewOfficeDesk_73
+  - first:
+      213: 4717766856974143634
+    second: NewOfficeDesk_74
+  - first:
+      213: -1233628816943734893
+    second: NewOfficeDesk_75
+  - first:
+      213: -984422466413279179
+    second: NewOfficeDesk_76
+  - first:
+      213: -8362501051093930651
+    second: NewOfficeDesk_77
+  - first:
+      213: 8089716737176009264
+    second: NewOfficeDesk_78
+  - first:
+      213: -2074467389902351979
+    second: NewOfficeDesk_79
+  - first:
+      213: 2484124116802020722
+    second: NewOfficeDesk_80
+  - first:
+      213: -5740462360580183702
+    second: NewOfficeDesk_81
+  - first:
+      213: 8689486791232832086
+    second: NewOfficeDesk_82
+  - first:
+      213: 1149116644639722818
+    second: NewOfficeDesk_83
+  - first:
+      213: 1818144180086044973
+    second: NewOfficeDesk_84
+  - first:
+      213: 93112854852611616
+    second: NewOfficeDesk_85
+  - first:
+      213: -2307138877179297469
+    second: NewOfficeDesk_86
+  - first:
+      213: -423680594371965987
+    second: NewOfficeDesk_87
+  - first:
+      213: 8253799566163131697
+    second: NewOfficeDesk_88
+  - first:
+      213: 5448562905315255284
+    second: NewOfficeDesk_89
+  - first:
+      213: -3322171129078324019
+    second: NewOfficeDesk_90
+  - first:
+      213: 1450215689457061288
+    second: NewOfficeDesk_91
+  - first:
+      213: 5932055718601765984
+    second: NewOfficeDesk_92
+  - first:
+      213: -2306212403274220
+    second: NewOfficeDesk_93
+  - first:
+      213: -5251120683958247040
+    second: NewOfficeDesk_94
+  - first:
+      213: -5124427694111592488
+    second: NewOfficeDesk_95
+  - first:
+      213: -2954905191029244701
+    second: NewOfficeDesk_96
+  - first:
+      213: -3814643539055170059
+    second: NewOfficeDesk_97
+  - first:
+      213: -1295995808186577320
+    second: NewOfficeDesk_98
+  - first:
+      213: -3251403659176092049
+    second: NewOfficeDesk_99
+  - first:
+      213: 3768840546285829995
+    second: NewOfficeDesk_100
+  - first:
+      213: 7611303815067629461
+    second: NewOfficeDesk_101
+  - first:
+      213: -3804556493328572871
+    second: NewOfficeDesk_102
+  - first:
+      213: 1541567336336621656
+    second: NewOfficeDesk_103
+  - first:
+      213: 31641755350774027
+    second: NewOfficeDesk_104
+  - first:
+      213: -4613520067175838226
+    second: NewOfficeDesk_105
+  - first:
+      213: 7922187606449709217
+    second: NewOfficeDesk_106
+  - first:
+      213: -6002779005603399654
+    second: NewOfficeDesk_107
+  - first:
+      213: -6205572738612574075
+    second: NewOfficeDesk_108
+  - first:
+      213: 4918565963540961312
+    second: NewOfficeDesk_109
+  - first:
+      213: 2909243655285186597
+    second: NewOfficeDesk_110
+  - first:
+      213: -8989268756546836271
+    second: NewOfficeDesk_111
+  - first:
+      213: -7692395639795106842
+    second: NewOfficeDesk_112
+  - first:
+      213: -1056406141953421487
+    second: NewOfficeDesk_113
+  - first:
+      213: -8654020558093597620
+    second: NewOfficeDesk_114
+  - first:
+      213: -2960138990025616339
+    second: NewOfficeDesk_115
+  - first:
+      213: -5223134667777643695
+    second: NewOfficeDesk_116
+  - first:
+      213: -5152976985072804429
+    second: NewOfficeDesk_117
+  - first:
+      213: -9047973170163014352
+    second: NewOfficeDesk_118
+  - first:
+      213: 6226418242694860230
+    second: NewOfficeDesk_119
+  - first:
+      213: -993503768213627413
+    second: NewOfficeDesk_120
+  - first:
+      213: 2566608845543272414
+    second: NewOfficeDesk_121
+  - first:
+      213: -1576419957654854286
+    second: NewOfficeDesk_122
+  - first:
+      213: -2489656964389657548
+    second: NewOfficeDesk_123
+  - first:
+      213: 9098982399056521047
+    second: NewOfficeDesk_124
+  - first:
+      213: 6835341654600519536
+    second: NewOfficeDesk_125
+  - first:
+      213: 7561917473740485022
+    second: NewOfficeDesk_126
+  - first:
+      213: -5788380642489209147
+    second: NewOfficeDesk_127
+  - first:
+      213: -1086166312563416169
+    second: NewOfficeDesk_128
+  - first:
+      213: 8433331566768695998
+    second: NewOfficeDesk_129
+  - first:
+      213: 3809824630151661088
+    second: NewOfficeDesk_130
+  - first:
+      213: 8754259078707491832
+    second: NewOfficeDesk_131
+  - first:
+      213: -2845647868351517795
+    second: NewOfficeDesk_132
+  - first:
+      213: -3725644659339970232
+    second: NewOfficeDesk_133
+  - first:
+      213: -7954514496128575918
+    second: NewOfficeDesk_134
+  - first:
+      213: 3252517255325350549
+    second: NewOfficeDesk_135
+  - first:
+      213: -4641612112552953087
+    second: NewOfficeDesk_136
+  - first:
+      213: 6536181091010294247
+    second: NewOfficeDesk_137
+  - first:
+      213: -4000837142480074461
+    second: NewOfficeDesk_138
+  - first:
+      213: -5563166622623579028
+    second: NewOfficeDesk_139
+  - first:
+      213: 2388949803400494445
+    second: NewOfficeDesk_140
+  - first:
+      213: -5646300339703079649
+    second: NewOfficeDesk_141
+  - first:
+      213: 4174658302366537554
+    second: NewOfficeDesk_142
+  - first:
+      213: -5971618147707441490
+    second: NewOfficeDesk_143
+  - first:
+      213: 1288579453943281271
+    second: NewOfficeDesk_144
+  - first:
+      213: -6625200792737672349
+    second: NewOfficeDesk_145
+  - first:
+      213: 1169446007814095385
+    second: NewOfficeDesk_146
+  - first:
+      213: -1559784528444555210
+    second: NewOfficeDesk_147
+  - first:
+      213: -2299723996520769372
+    second: NewOfficeDesk_148
+  - first:
+      213: 3780508235216988113
+    second: NewOfficeDesk_149
+  - first:
+      213: -1058592596862294200
+    second: NewOfficeDesk_150
+  - first:
+      213: -6489022873820639847
+    second: NewOfficeDesk_151
+  - first:
+      213: -1091610058743924835
+    second: NewOfficeDesk_152
+  - first:
+      213: -3765009083763223406
+    second: NewOfficeDesk_153
+  - first:
+      213: 3549112423959588762
+    second: NewOfficeDesk_154
+  - first:
+      213: 5351966927577299444
+    second: NewOfficeDesk_155
+  - first:
+      213: 6730199508153388432
+    second: NewOfficeDesk_156
+  - first:
+      213: 3059731073708030921
+    second: NewOfficeDesk_157
+  - first:
+      213: 940449314571593931
+    second: NewOfficeDesk_158
+  - first:
+      213: 6097320037552242751
+    second: NewOfficeDesk_159
+  - first:
+      213: 5307650230272020867
+    second: NewOfficeDesk_160
+  - first:
+      213: -3282011148593171922
+    second: NewOfficeDesk_161
+  - first:
+      213: -2093698086803251907
+    second: NewOfficeDesk_162
+  - first:
+      213: 6960649840640321561
+    second: NewOfficeDesk_163
+  - first:
+      213: -7556831451241763996
+    second: NewOfficeDesk_164
+  - first:
+      213: 779744696831096432
+    second: NewOfficeDesk_165
+  - first:
+      213: -66922167941210389
+    second: NewOfficeDesk_166
+  - first:
+      213: -1946607538502310658
+    second: NewOfficeDesk_167
+  - first:
+      213: -1985830560646088067
+    second: NewOfficeDesk_168
+  - first:
+      213: -8033836969387189897
+    second: NewOfficeDesk_169
+  - first:
+      213: 1148567468836415344
+    second: NewOfficeDesk_170
+  - first:
+      213: 8355469922046068152
+    second: NewOfficeDesk_171
+  - first:
+      213: -4700446855916558415
+    second: NewOfficeDesk_172
+  - first:
+      213: 4620282059237589418
+    second: NewOfficeDesk_173
+  - first:
+      213: 4361959274583875977
+    second: NewOfficeDesk_174
+  - first:
+      213: 6976758115874908313
+    second: NewOfficeDesk_175
+  - first:
+      213: -9215846600228400196
+    second: NewOfficeDesk_176
+  - first:
+      213: 4304359513882045505
+    second: NewOfficeDesk_177
+  - first:
+      213: 4507673646370297816
+    second: NewOfficeDesk_178
+  - first:
+      213: -8879023346896154594
+    second: NewOfficeDesk_179
+  - first:
+      213: 7417658925832608599
+    second: NewOfficeDesk_180
+  - first:
+      213: -3467875176531001472
+    second: NewOfficeDesk_181
+  - first:
+      213: -471795688850720375
+    second: NewOfficeDesk_182
+  - first:
+      213: 876803605260401596
+    second: NewOfficeDesk_183
+  - first:
+      213: -2657295382661070031
+    second: NewOfficeDesk_184
+  - first:
+      213: -6707450843697589410
+    second: NewOfficeDesk_185
+  - first:
+      213: -5605081033875845482
+    second: NewOfficeDesk_186
+  - first:
+      213: -6639476201941218674
+    second: NewOfficeDesk_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewOfficeDesk_0
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1192
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af2ac1a65cd52170800000000000000
+      internalID: 8153164965063831464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1242
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6832449f0da018a0800000000000000
+      internalID: -6336374393286805397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1206
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcca8f6194dbd800800000000000000
+      internalID: 638337493309770928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_3
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1176
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8678b1d84176f8370800000000000000
+      internalID: 8326987573995734888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_4
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1171
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35a54e822d41cd70800000000000000
+      internalID: 9061608736057304381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_5
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1178
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5d51be1d9f3540800000000000000
+      internalID: 4989879667300064572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1051
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5ddb951e0c97d40800000000000000
+      internalID: 5582705287208228320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1075
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c5761670c3cb80800000000000000
+      internalID: -8375639268563500791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_8
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1067
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec63b37e38153c0800000000000000
+      internalID: -4372568734045909294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1074
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284985ad995a99a90800000000000000
+      internalID: -7306626840220101502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_10
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1031
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10d41d872d072ba0800000000000000
+      internalID: -6113903505610321891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_11
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1044
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525db4c2343403a0800000000000000
+      internalID: -6700172952966704556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 880
+        width: 60
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326000740629baa80800000000000000
+      internalID: -8454502933252274653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1012
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62379a639355945a0800000000000000
+      internalID: -6536599679932992730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1043
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e12b3947535f6e0800000000000000
+      internalID: -1804477300881613291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1046
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9fb05e2c3c53bf0800000000000000
+      internalID: -345154554590135827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_16
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1044
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95c3b005c8e16f0800000000000000
+      internalID: -711977415664182805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1027
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c895f6065f16c60800000000000000
+      internalID: 7809793023370955861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 984
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048b72b3db312490800000000000000
+      internalID: -7772865701446188022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_19
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 980
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc024aca5bc794f0800000000000000
+      internalID: -821964816171004727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_20
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1033
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c9d29ebfb3e660800000000000000
+      internalID: 7413980236810404470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_21
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1053
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b3c572e5c2d3040800000000000000
+      internalID: 4628904774905641753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_22
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1058
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ecb7ad43f044e50800000000000000
+      internalID: 6792570857659813529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1037
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fffb983656ad44d0800000000000000
+      internalID: -3148677675214962700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1041
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea981fe1f4a4208b0800000000000000
+      internalID: -5187502117095372370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_25
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1018
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a17b6506fa3f10800000000000000
+      internalID: 2250381466962863543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1044
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d203c20091c2c60b0800000000000000
+      internalID: -5734159739660783571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_27
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 838
+        width: 119
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4aa724d721e1ec0800000000000000
+      internalID: -3594415123399531295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_28
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1026
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7decca65e443dd0b0800000000000000
+      internalID: -5702344042114920745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1030
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b9b1721598e110800000000000000
+      internalID: 1290445199691592437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_30
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1024
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f20834e220d65ee0800000000000000
+      internalID: -1272600996409244935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_31
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1023
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3fa24a77886fa50800000000000000
+      internalID: 6554576355121099719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_32
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1045
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33ac12425397090800000000000000
+      internalID: -8036333630763945023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_33
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1019
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aaa4fb4453c2fc0800000000000000
+      internalID: -3518378639499810211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_34
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1036
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ab4d9d578b24b0800000000000000
+      internalID: -5464124886743277089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_35
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1016
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3414e34ad65d50510800000000000000
+      internalID: 1514851516563734851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1036
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b94a0fd78b60780800000000000000
+      internalID: -8717077177681274089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_37
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 962
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cab3aaa986a25d0800000000000000
+      internalID: -3086539581118763914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_38
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 995
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ea405647c42fbd0800000000000000
+      internalID: -2597929972244631998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_39
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1009
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3a2460ec2fb4b0800000000000000
+      internalID: -5422566084066000901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_40
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 967
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad0617bb89e80c0800000000000000
+      internalID: -4571548640905995665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_41
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1001
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc972e974a6e074d0800000000000000
+      internalID: -3138755346183325236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_42
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1005
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c46dd2f0b10e510800000000000000
+      internalID: 1576289621587151969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_43
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1003
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e76cc303239c120800000000000000
+      internalID: 2434532256329924179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_44
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1010
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be052ccb880bced80800000000000000
+      internalID: -8220001118529105685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_45
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 990
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade203310432472b0800000000000000
+      internalID: -5587802479553138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_46
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1013
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4de2dcca4b9daf90800000000000000
+      internalID: -6940720705141805748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_47
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1008
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd732c9aeb5cd87c0800000000000000
+      internalID: -4067377465763153953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_48
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 987
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a149f307c15d160800000000000000
+      internalID: 7049572060146965101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_49
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 981
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeebb58453d14f8c0800000000000000
+      internalID: -3966513257122119958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_50
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 962
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2436204fdc624b0800000000000000
+      internalID: -5465454649871744300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_51
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 990
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc80bb79a477a66f0800000000000000
+      internalID: -690608430591047477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 975
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0db4776154be790800000000000000
+      internalID: -7499824791662374671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_53
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 952
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed03cdcf10bd61020800000000000000
+      internalID: 2312276260285067486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_54
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 980
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740dcedaf05ac940800000000000000
+      internalID: 5317151348474315894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_55
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 983
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9f6c82dcbebf90800000000000000
+      internalID: -6935898763618705484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_56
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 986
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7cb77df3f13960800000000000000
+      internalID: 7580107917802371587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_57
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 973
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb0b27a1e8226b0800000000000000
+      internalID: -5322535565354026150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_58
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 979
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1845a98f81b0f60800000000000000
+      internalID: 8001516618974003619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_59
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 940
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150064579675f1a30800000000000000
+      internalID: 4188162288928555089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_60
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 967
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01fce4de43b23590800000000000000
+      internalID: -7695891662061637364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_61
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 972
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443448b25c7ce330800000000000000
+      internalID: 3741502085158679630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_62
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 975
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a056e1ea1e9280800000000000000
+      internalID: -9034754244924628778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_63
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 965
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e03512ae582760800000000000000
+      internalID: 7433295235208243467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_64
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 979
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e015c02cfd261e0800000000000000
+      internalID: -2205954842934833575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_65
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 969
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4746194aa32560800000000000000
+      internalID: 7287855852898701125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_66
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 964
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c569a2093f724020800000000000000
+      internalID: 2324560240511116739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_67
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 940
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a53db518fdf9410800000000000000
+      internalID: 1486152148739906053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_68
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 967
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d2aad8983f6c50800000000000000
+      internalID: 6660604603058541368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_69
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 964
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca37d2c861bce160800000000000000
+      internalID: 7056209779686324935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_70
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 964
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0336c3bf454970800000000000000
+      internalID: 8738478285525289652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_71
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 949
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca2ba5229a1b2500800000000000000
+      internalID: 372420609187719875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_72
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 960
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2d7622e87ca640800000000000000
+      internalID: 5092578191352868339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_73
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 967
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b875ab0a3b8bde8a0800000000000000
+      internalID: -6274155624222009461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_74
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 925
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901e0be5ffd87140800000000000000
+      internalID: 4717766856974143634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_75
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 967
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1265802541eee0800000000000000
+      internalID: -1233628816943734893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_76
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 948
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c5848bf0a652f0800000000000000
+      internalID: -984422466413279179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_77
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 964
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d27b7b99d62fb80800000000000000
+      internalID: -8362501051093930651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_78
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 953
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a78e4e282744070800000000000000
+      internalID: 8089716737176009264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_79
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 851
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911dbe56e20633e0800000000000000
+      internalID: -2074467389902351979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_80
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 887
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27527f709b1697220800000000000000
+      internalID: 2484124116802020722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_81
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 899
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692e17b5e7c550b0800000000000000
+      internalID: -5740462360580183702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_82
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 906
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652c1ef9232479870800000000000000
+      internalID: 8689486791232832086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_83
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 910
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d4d31008b72ff00800000000000000
+      internalID: 1149116644639722818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_84
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 897
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29f874bf785b3910800000000000000
+      internalID: 1818144180086044973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_85
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 932
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e238de5adca4100800000000000000
+      internalID: 93112854852611616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_86
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 915
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3410c3a3a656bffd0800000000000000
+      internalID: -2307138877179297469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_87
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 922
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8b328eb8ce1af0800000000000000
+      internalID: -423680594371965987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_88
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 900
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d3d6499f26b8270800000000000000
+      internalID: 8253799566163131697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 891
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3afab381f2d9b40800000000000000
+      internalID: 5448562905315255284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 944
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46a30b5f645e1d0800000000000000
+      internalID: -3322171129078324019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_91
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 951
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad49c96c73302410800000000000000
+      internalID: 1450215689457061288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_92
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 892
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06435172f35e25250800000000000000
+      internalID: 5932055718601765984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_93
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 838
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1de4138ec7fff0800000000000000
+      internalID: -2306212403274220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_94
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 909
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08166ff3f854027b0800000000000000
+      internalID: -5251120683958247040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_95
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 944
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfed4f992062e8b0800000000000000
+      internalID: -5124427694111592488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_96
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 920
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec7ebf62611ef6d0800000000000000
+      internalID: -2954905191029244701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_97
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 953
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda0ed79e9af0bc0800000000000000
+      internalID: -3814643539055170059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_98
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 936
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ec4aecda2b30ee0800000000000000
+      internalID: -1295995808186577320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_99
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 909
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e57614991b0e2d0800000000000000
+      internalID: -3251403659176092049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_100
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 912
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fb478328c9d4430800000000000000
+      internalID: 3768840546285829995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_101
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 880
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5977eae4e78c0a960800000000000000
+      internalID: 7611303815067629461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_102
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 906
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9e37d600833bc0800000000000000
+      internalID: -3804556493328572871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_103
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 892
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85080b7235fb46510800000000000000
+      internalID: 1541567336336621656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_104
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 916
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b0c3420a607000800000000000000
+      internalID: 31641755350774027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_105
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 899
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed09df31fb79ffb0800000000000000
+      internalID: -4613520067175838226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_106
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 894
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ef6e87a341fd60800000000000000
+      internalID: 7922187606449709217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_107
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 927
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1836d96c48d1bca0800000000000000
+      internalID: -6002779005603399654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_108
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 902
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5884627097061e9a0800000000000000
+      internalID: -6205572738612574075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_109
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289f252fa1424440800000000000000
+      internalID: 4918565963540961312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_110
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 944
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520255ec0b5bf5820800000000000000
+      internalID: 2909243655285186597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_111
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 877
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8228f61b3bf3380800000000000000
+      internalID: -8989268756546836271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_112
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 950
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbf32fbee1f3590800000000000000
+      internalID: -7692395639795106842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_113
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 944
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f43520634e651f0800000000000000
+      internalID: -1056406141953421487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_114
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 901
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4447e3472eb6e780800000000000000
+      internalID: -8654020558093597620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_115
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 925
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245db5a5497be6d0800000000000000
+      internalID: -2960138990025616339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_116
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 893
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be51961b2b387b0800000000000000
+      internalID: -5223134667777643695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_117
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 948
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdd8f4dbb2fc78b0800000000000000
+      internalID: -5152976985072804429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_118
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 875
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0352b2707542f6280800000000000000
+      internalID: -9047973170163014352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_119
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 885
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdc6da176ea86650800000000000000
+      internalID: 6226418242694860230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_120
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 922
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed5d9c269d5632f0800000000000000
+      internalID: -993503768213627413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_121
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 919
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6bf3852d6e9320800000000000000
+      internalID: 2566608845543272414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_122
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 914
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2756527966e6f1ae0800000000000000
+      internalID: -1576419957654854286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_123
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 880
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342af08e26f27dd0800000000000000
+      internalID: -2489656964389657548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_124
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 892
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ab419844164e70800000000000000
+      internalID: 9098982399056521047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_125
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 868
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f05e805030cde50800000000000000
+      internalID: 6835341654600519536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_126
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 860
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91fe1ba0e351f860800000000000000
+      internalID: 7561917473740485022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_127
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 897
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceeeab497a8bafa0800000000000000
+      internalID: -5788380642489209147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_128
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 879
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79369a45e792de0f0800000000000000
+      internalID: -1086166312563416169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_129
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 879
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba2656d066390570800000000000000
+      internalID: 8433331566768695998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_130
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 883
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02649b8d0573fd430800000000000000
+      internalID: 3809824630151661088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_131
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 893
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3391200406d7970800000000000000
+      internalID: 8754259078707491832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_132
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 887
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b6f03375a3288d0800000000000000
+      internalID: -2845647868351517795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_133
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 891
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b5b0fbe9db4cc0800000000000000
+      internalID: -3725644659339970232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_134
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 888
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569f89e533eb9190800000000000000
+      internalID: -7954514496128575918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_135
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 883
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afe7d0633432d20800000000000000
+      internalID: 3252517255325350549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_136
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 888
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b712e306ea59fb0800000000000000
+      internalID: -4641612112552953087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_137
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 893
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13b45721e25ba50800000000000000
+      internalID: 6536181091010294247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_138
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 861
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294946f0db2a78c0800000000000000
+      internalID: -4000837142480074461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_139
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 872
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6446308e69abc2b0800000000000000
+      internalID: -5563166622623579028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_140
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 880
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dfce16031472120800000000000000
+      internalID: 2388949803400494445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_141
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 877
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d94d4a1cf44a1b0800000000000000
+      internalID: -5646300339703079649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_142
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 885
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25751339b9d5fe930800000000000000
+      internalID: 4174658302366537554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_143
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 879
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae2f930fec802da0800000000000000
+      internalID: -5971618147707441490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_144
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 866
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f729af24f1e110800000000000000
+      internalID: 1288579453943281271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_145
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 879
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3631c371bfe8e04a0800000000000000
+      internalID: -6625200792737672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_146
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 882
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91202c7b2f4ba3010800000000000000
+      internalID: 1169446007814095385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_147
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 818
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63089e74c388a5ae0800000000000000
+      internalID: -1559784528444555210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_148
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 858
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a810f9a53db510e0800000000000000
+      internalID: -2299723996520769372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_149
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 821
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72c8eb530177430800000000000000
+      internalID: 3780508235216988113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_150
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 848
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472a2e44af1f41f0800000000000000
+      internalID: -1058592596862294200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_151
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 875
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d498a931c52f5a0800000000000000
+      internalID: -6489022873820639847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_152
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 864
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9733576f62d9d0f0800000000000000
+      internalID: -1091610058743924835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_153
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 864
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2949c2aaf2000cbc0800000000000000
+      internalID: -3765009083763223406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_154
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 870
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f690212faf04130800000000000000
+      internalID: 3549112423959588762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_155
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 857
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f932ef8091064a40800000000000000
+      internalID: 5351966927577299444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_156
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 853
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dcdf66bc8766d50800000000000000
+      internalID: 6730199508153388432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_157
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 818
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb779c4339567a20800000000000000
+      internalID: 3059731073708030921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_158
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 860
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ac4c3ba52d0d00800000000000000
+      internalID: 940449314571593931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_159
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 863
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f304c28e4480e9450800000000000000
+      internalID: 6097320037552242751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_160
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 843
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381526763cf88a940800000000000000
+      internalID: 5307650230272020867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_161
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 866
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e227b3bcf34f372d0800000000000000
+      internalID: -3282011148593171922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_162
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 861
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d5d25dea0b1f2e0800000000000000
+      internalID: -2093698086803251907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_163
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 840
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ee35a622399060800000000000000
+      internalID: 6960649840640321561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_164
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b2c3935ddb02790800000000000000
+      internalID: -7556831451241763996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_165
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 844
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bc16aba532da00800000000000000
+      internalID: 779744696831096432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_166
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 848
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beed34094ae321ff0800000000000000
+      internalID: -66922167941210389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_167
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 842
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4e87ed1c24cf4e0800000000000000
+      internalID: -1946607538502310658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_168
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 836
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a339060a9e074e0800000000000000
+      internalID: -1985830560646088067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_169
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 855
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779964867d3128090800000000000000
+      internalID: -8033836969387189897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_170
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 846
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077609c070880ff00800000000000000
+      internalID: 1148567468836415344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_171
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 851
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5440bff9794f370800000000000000
+      internalID: 8355469922046068152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_172
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ed731d78a4ceb0800000000000000
+      internalID: -4700446855916558415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_173
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 844
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa187f6bd0a8e1040800000000000000
+      internalID: 4620282059237589418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_174
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 849
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981ea4e79dac88c30800000000000000
+      internalID: 4361959274583875977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_175
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982c8cba8c62d060800000000000000
+      internalID: 6976758115874908313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_176
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 843
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb315e0485cba1080800000000000000
+      internalID: -9215846600228400196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_177
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 846
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c23822c282cbb30800000000000000
+      internalID: 4304359513882045505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_178
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 849
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d79a477c497e8e30800000000000000
+      internalID: 4507673646370297816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_179
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 841
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10dadf1f4f57c480800000000000000
+      internalID: -8879023346896154594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_180
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 842
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b124b1e71d0f660800000000000000
+      internalID: 7417658925832608599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_181
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 824
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f797986e1afdfc0800000000000000
+      internalID: -3467875176531001472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_182
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 837
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989fd771258d379f0800000000000000
+      internalID: -471795688850720375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_183
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 842
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbf355cb380b2c00800000000000000
+      internalID: 876803605260401596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_184
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 826
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133833dade36f1bd0800000000000000
+      internalID: -2657295382661070031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_185
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 825
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d209cef85ae2a0800000000000000
+      internalID: -6707450843697589410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_186
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 831
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0d862f70c632b0800000000000000
+      internalID: -5605081033875845482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewOfficeDesk_187
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 285
+        width: 817
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a42a06297dbd3a0800000000000000
+      internalID: -6639476201941218674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
