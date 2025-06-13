@@ -30,7 +30,7 @@ public class NPCDialogue : MonoBehaviour
         dialogueText.text = "Cyril: Mfethu (my brother) I dont know what they told you but no one really cares about you here. You're just a cleaner in their eyes";
         yield return new WaitForSeconds(5f);
 
-        dialogueText.text = "Bheki: Askies bhuthi? (sorry brother?) what do mean, uhm.. I applied for an office job.";
+        dialogueText.text = "Bheki: Uhmmm askies bhuthi? (sorry brother?) what do mean....I applied for an office job.";
         yield return new WaitForSeconds(5f);
 
         dialogueText.text = "Cyril: That means nothing these oaks dont respect you, not even that fancy clipboard you have.";
@@ -39,7 +39,7 @@ public class NPCDialogue : MonoBehaviour
         dialogueText.text = "Bheki: Is this why I haven't been assigned a desk, I'm spending my whole day picking up rubbish!? ";
         yield return new WaitForSeconds(5f);
 
-        dialogueText.text = "Cyril : Yebo, So ungazenzi smart (Dont act too clever) especially in front of that John Beers I know something about him, just continue cleaning up this office";
+        dialogueText.text = "Cyril : Exactly, So ungazenzi smart (Dont act too clever) especially in front of that John Beers I know something about him, just continue cleaning up this office";
         yield return new WaitForSeconds(5f);
 
         dialogueText.text = "Bheki: John Beers... Grootman? (The boss?), what do you know about him";
