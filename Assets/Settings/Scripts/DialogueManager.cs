@@ -31,7 +31,7 @@ public class DialogueManager : MonoBehaviour
         dialogueText.text = "Bheki: Surely they dont expect me to clean this?!";
         yield return new WaitForSeconds (textDelay);
 
-        dialogueText.text = "GAME: Pick up the trash! Walk over the trash to pick it up";
+        dialogueText.text = "GAME: Pick up the trash! (Walk over the trash to pick it up)";
         yield return new WaitForSeconds (textDelay);
 
         dialogueText.text = ""; // Clear the text after dialogue ends 
