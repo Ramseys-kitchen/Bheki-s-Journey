@@ -5,11 +5,19 @@ public class TrashCollector : MonoBehaviour
     private int trashCollected = 0;
     private bool isCollecting = false;
 
+    public GameObject Door;
+    
+
     [Header("Audio Settings")]
     [SerializeField] private AudioClip collectSound; //Assign in Inspector
     [SerializeField]
     [Range(0f, 1f)]
     private float volume = 0.7f; //Default volume level
+
+    private void Start()
+    {
+        Door.SetActive(true);
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -44,5 +52,13 @@ public class TrashCollector : MonoBehaviour
             AudioSource.PlayClipAtPoint(collectSound, soundPos, volume);
         }
 
-    } 
+    }
+
+    private void Update()
+    {
+        if(trashCollected >= 7)
+        {
+            Door.SetActive(false);
+        }
+    }
 }
