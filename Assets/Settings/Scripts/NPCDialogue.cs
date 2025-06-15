@@ -63,7 +63,7 @@ public class NPCDialogue : MonoBehaviour
         dialogueText.text = "Sibusio: We split that money, you can decide the cut. I just wanna get out of here with something.";
         yield return new WaitForSeconds(5f);
 
-        dialogueText.text = "Game: (Walk up to John Beers Office)";
+        dialogueText.text = "Game: Introduce yourself to John (Walk up to John Beers Office)";
         yield return new WaitForSeconds(5f);
 
         dialogueUI.SetActive(false);
